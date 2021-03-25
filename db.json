@@ -29,5 +29,7 @@
     "description": "You never have to leave your computer! All you can eat nutrition!",
   }
 ],
-  "profile": [{ "name": "AltusFortius" }]
+  "profile": [
+    { "name": "AltusFortius" }
+  ],
 }
