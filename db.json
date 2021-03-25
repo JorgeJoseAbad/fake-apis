@@ -1,0 +1,13 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "Napoleon" },
+    { "id": 2, "title": "json-server2", "author": "Cleopatra" },
+    { "id": 3, "title": "json-server3", "author": "Wellington" }
+  ],
+  "comments": [
+    { "id": 1, "body": "First Comment", "postId": 1 },
+    { "id": 2, "body": "Second Comment", "postId": 2 },
+    { "id": 3, "body": "Third Comment", "postId": 3 }
+  ],
+  "profile": { "name": "AltusFortius" }
+}
